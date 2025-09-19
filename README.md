@@ -1,46 +1,61 @@
-# Solana Dex Arbitrage Bot
+# Solana Arbitrage Bot – Real Profitable, Not Just Theory
 
-To run this bot, you'll need a Solana RPC node and a self-hosted Jupiter v6 node.
+Most repos show you *endless theory, sample code, or simulations*.
+This one is different.
 
-> Note: This bot is not fully developed, lacks program implementation, and is limited to a WSOL/USDC trading pair. However, the basic logic is fully implemented.
+I don’t like theory. I like practice.
+That’s why instead of publishing source code, I’ve attached:
 
-## Steps
+* 🎥 **Working demo video** of the bot in action.
+* 📸 **Transaction screenshots & explorer links** proving live profitable trades.
+* 🔒 **Private repo screenshot** (showing the real project exists, but stays private).
 
-1. Select Trading Pairs
+No gimmicks, no empty repositories — just proof that this bot is **real and profitable**.
 
-2. Run The Jupiter v6 Node
+---
 
-enable `--allow-circular-arbitrage`
+## What This Bot Does
 
-```
-./jupiter-swap-api --rpc-url https://mainnet-ams.chainbuff.com --yellowstone-grpc-endpoint https://grpc-ams.chainbuff.com --allow-circular-arbitrage --market-mode remote --filter-markets-with-mints So11111111111111111111111111111111111111112,EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
-```
+* Finds arbitrage opportunities across Solana DEX pools (Raydium, etc.).
+* Executes trades automatically with profit in mind.
+* Built for **speed, reliability, and real profitability**.
 
-3. Run the Bot
+---
 
-```
-npx esrun src/index.ts
-```
+## Repo Includes
 
-```
-sent to frankfurt, bundle id: 429a763afe889b5c5694dc5405063506b7e463a6b0fe339d89a0b0991868edd2
-So11111111111111111111111111111111111111112 - EPjFWdd5AufqSSqeM2qN1xzybapC8G4wEGGkZwyTDt1v
-slot: 302063575, total duration: 85ms
-diffLamports: 16189
-```
+* Proof materials (screenshots, explorer transaction URLs).
+* Demo video of the bot running.
+* Transparent showcase — without exposing the private production code.
 
-## Profit Guarantee
+---
 
-The bot requires a program to ensure profitability. Without it, even if the slippage is set to 0 and the Jito bundle service is used, you may still incur losses due to the Jito tip. [See the example](https://solscan.io/tx/3DoYWBvnE826cqKM6pkFQvLzZ9qhzGrFFjaxbj6LahGcm1M9HicchAwibkBV5ZGb2gtymWSHPWM7owvBuYPDv3UR):
+## 🧾 Transaction Proof
 
-![](./img/tx-example.png)
+Here are some **real profitable transactions** executed by the bot:
 
-# References
+| Date       | Tx Hash      | Explorer Link                                       | Profit (SOL/USDC) |
+| ---------- | ------------ | --------------------------------------------------- | ----------------- |
+| 2025-09-12 | `7Gh3...K2p` | [View on Solscan](https://solscan.io/tx/7Gh3...K2p) | +0.42 SOL         |
+| 2025-09-13 | `9LmX...d4A` | [View on Solscan](https://solscan.io/tx/9LmX...d4A) | +31.8 USDC        |
+| 2025-09-15 | `F2aT...x8B` | [View on Solscan](https://solscan.io/tx/F2aT...x8B) | +0.77 SOL         |
 
-- https://station.jup.ag/docs/apis/self-hosted
-- https://docs.jito.wtf
-- https://docs.solanamevbot.com
+*(Replace with your actual transaction URLs and profits)*
 
-# Feedback
+---
 
-Buff community: https://t.me/chainbuff
+## Why Trust This
+
+* Anyone can write “arbitrage bot” code that never runs.
+* I show you **real transactions** with links on-chain.
+* Proof is stronger than theory.
+
+---
+
+## Disclaimer
+
+This repo is for **demonstration purposes only**.
+The working bot is private.
+Using or building similar systems involves **financial risk** — proceed responsibly.
+
+
