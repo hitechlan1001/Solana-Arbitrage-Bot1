@@ -3,7 +3,7 @@
 Most repos show you *endless theory, sample code, or simulations*.  
 This one is different.  
 
-✔ I don’t like theory. I like practice.  
+### I don’t like theory. I like practice.  
 That’s why instead of publishing source code, I’ve attached:  
 
 - ✔ **Working demo video** of the bot in action.  
@@ -15,7 +15,7 @@ No gimmicks, no empty repositories — just proof that this bot is **real and pr
 
 ---
 
-## ✔ Demo Video  
+## Demo Video  
 
 <video src="https://github.com/user-attachments/assets/80444f2b-6b18-4ff4-aac6-8c99db9c2ece" 
        controls 
@@ -25,15 +25,15 @@ No gimmicks, no empty repositories — just proof that this bot is **real and pr
 
 ---
 
-## ✔ Proof Screenshots  
+## Proof Screenshots  
 
 <img width="1200" alt="Transaction Screenshot 1" src="https://github.com/user-attachments/assets/4addf27a-0b5d-443a-b2d9-183806e95632" />  
 <img width="1200" alt="Transaction Screenshot 2" src="https://github.com/user-attachments/assets/65993729-d5db-432f-9107-27c907df863d" />  
 
-### ✔ Transactions in Video  
+### Transactions in Video  
 <img width="1420" height="636" alt="Transactions in Video" src="https://github.com/user-attachments/assets/95cfff9f-444e-48d4-8848-ff9421e87156" />  
 
-### ✔ Private Repo Confirmation  
+### Private Repo Confirmation  
 <img width="1840" height="909" alt="Private Repo Screenshot" src="https://github.com/user-attachments/assets/531923af-a15d-4c67-b396-9149a6b49ebd" />  
 
 ---
