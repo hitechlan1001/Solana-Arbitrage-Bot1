@@ -39,7 +39,7 @@ No gimmicks, no empty repositories — just proof that this bot is **real and pr
 ---
 
 ## What This Bot Does  
-- Finds arbitrage opportunities across Solana DEX pools (Raydium, etc.).  
+- Finds arbitrage opportunities across Solana DEX pools (Raydium).  
 - Executes trades automatically with profit in mind.  
 - Built for **speed, reliability, and real profitability**.  
 
