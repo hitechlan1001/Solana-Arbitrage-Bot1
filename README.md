@@ -7,8 +7,15 @@ I don’t like theory. I like practice.
 That’s why instead of publishing source code, I’ve attached:
 
 * 🎥 **Working demo video** of the bot in action.
+https://github.com/user-attachments/assets/80444f2b-6b18-4ff4-aac6-8c99db9c2ece
 * 📸 **Transaction screenshots & explorer links** proving live profitable trades.
+![Image](https://github.com/user-attachments/assets/4addf27a-0b5d-443a-b2d9-183806e95632)
+![Image](https://github.com/user-attachments/assets/65993729-d5db-432f-9107-27c907df863d)
+* ✔ **Transactions in video**
+<img width="1420" height="636" alt="Image" src="https://github.com/user-attachments/assets/95cfff9f-444e-48d4-8848-ff9421e87156" />
 * 🔒 **Private repo screenshot** (showing the real project exists, but stays private).
+<img width="1840" height="909" alt="Image" src="https://github.com/user-attachments/assets/531923af-a15d-4c67-b396-9149a6b49ebd" />
+
 
 No gimmicks, no empty repositories — just proof that this bot is **real and profitable**.
 
@@ -34,13 +41,10 @@ No gimmicks, no empty repositories — just proof that this bot is **real and pr
 
 Here are some **real profitable transactions** executed by the bot:
 
-| Date       | Tx Hash      | Explorer Link                                       | Profit (SOL/USDC) |
-| ---------- | ------------ | --------------------------------------------------- | ----------------- |
-| 2025-09-12 | `7Gh3...K2p` | [View on Solscan](https://solscan.io/tx/7Gh3...K2p) | +0.42 SOL         |
-| 2025-09-13 | `9LmX...d4A` | [View on Solscan](https://solscan.io/tx/9LmX...d4A) | +31.8 USDC        |
-| 2025-09-15 | `F2aT...x8B` | [View on Solscan](https://solscan.io/tx/F2aT...x8B) | +0.77 SOL         |
-
-*(Replace with your actual transaction URLs and profits)*
+| Date       | Tx Hash      | Explorer Link                                       |
+| ---------- | ------------ | --------------------------------------------------- |
+| 19:51:13 Jul 30, 2025 (UTC) | `7Gh3...K2p` | [View on Solscan](https://solscan.io/tx/https://solscan.io/tx/4TSiW44PaR2wqXdKpxnAfJYVLmv9HpoKJRqLvsiJ95Vnsxj6JWqPj8PPHanJtszbC8okRP6PLqoSi7SXTGGftkeT) |
+| 19:51:13 Jul 30, 2025 (UTC) | `9LmX...d4A` | [View on Solscan](https://solscan.io/tx/3qkBAweP3o9bH3EToqbwT1b2PyGuPfg31u75WNpmHrwTuLDRyygWRzyWch79CLsYLYEc9G3LvHHvPQAHkYCHBTjd) |
 
 ---
 
