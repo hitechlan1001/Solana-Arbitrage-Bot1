@@ -1,4 +1,4 @@
-# Solana Arbitrage Bot – Real Profitable, Not Just Theory  
+# Solana Arbitrage Bot – Real Profitable, Not Theory  
 
 ## Overview
 A high-performance arbitrage bot for Solana that monitors Raydium DEX price movements and executes profitable trades automatically. Unlike theory-focused repos, this project provides real proof of profitability through demo videos, transaction screenshots, and on-chain explorer links.
